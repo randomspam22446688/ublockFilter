@@ -283,3 +283,7 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ! 2023-07-30 https://www.instagram.com
 www.instagram.com##.x1guec7k.xhdunbi.x1bfs520.x1bzgcud.xcghwft.x9i3mqj.xph46j.x11njtxf.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x14miiyz.x1a7h2tk.x2lah0s.xdt5ytf.x1lliihq.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1qjc9v5
 www.instagram.com##div.xrbpyxo.xhdunbi.x1bfs520.x1bzgcud.xcghwft.x9i3mqj.xph46j.x11njtxf.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x14miiyz.x1a7h2tk.x2lah0s.xdt5ytf.x1lliihq.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1qjc9v5:nth-of-type(1)
+
+https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/video-swap-new/video-swap-new-ublock-origin.js
+https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/vaft/vaft-ublock-origin.js
+
