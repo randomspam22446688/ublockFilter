@@ -120,6 +120,7 @@ www.youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-s
 www.youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(/JonTronShow/)
 www.youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(/Jordan Matter/)
 www.youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(/Joshua Weissman/)
+www.youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(/JOYCA/)
 www.youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(/Jubilee/)
 www.youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(/Juju Fitcats/)
 www.youtube.com##ytd-video-renderer.ytd-expanded-shelf-contents-renderer.style-scope:has-text(/Jules LeBlanc/)
@@ -284,6 +285,7 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 www.instagram.com##.x1guec7k.xhdunbi.x1bfs520.x1bzgcud.xcghwft.x9i3mqj.xph46j.x11njtxf.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x14miiyz.x1a7h2tk.x2lah0s.xdt5ytf.x1lliihq.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1qjc9v5
 www.instagram.com##div.xrbpyxo.xhdunbi.x1bfs520.x1bzgcud.xcghwft.x9i3mqj.xph46j.x11njtxf.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x14miiyz.x1a7h2tk.x2lah0s.xdt5ytf.x1lliihq.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1qjc9v5:nth-of-type(1)
 
-https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/video-swap-new/video-swap-new-ublock-origin.js
-https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/vaft/vaft-ublock-origin.js
+!https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/video-swap-new/video-swap-new-ublock-origin.js
+!https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/vaft/vaft-ublock-origin.js
 
+twitch.tv##+js(twitch-videoad)
