@@ -3,6 +3,12 @@ instagram.com##:xpath(//div[contains(@class, 'VQL73')])
 instagram.com##:xpath(//div[contains(@class, '_ab70 _ab72 _ab74')])
 instagram.com##:xpath(//div[contains(@class, '_aagv _aero')])
 
+www.instagram.com##._ab74._al5y._al5u > .x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1n2onr6.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x1lliihq.xjbqb8w.x9f619
+www.instagram.com##._ab73._al5y._al5u > .x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1n2onr6.xo71vjh.x5pf9jr.x13lgxp2.x168nmei.x1lliihq.xjbqb8w.x9f619
+
+www.instagram.com##.x1guec7k.xhdunbi.x1bfs520.x1bzgcud.xcghwft.x9i3mqj.xph46j.x11njtxf.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x14miiyz.x1a7h2tk.x2lah0s.xdt5ytf.x1lliihq.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1qjc9v5
+www.instagram.com##div.xrbpyxo.xhdunbi.x1bfs520.x1bzgcud.xcghwft.x9i3mqj.xph46j.x11njtxf.x1n2onr6.xkhd6sd.x18d9i69.x4uap5.xexx8yu.x1mh8g0r.xat24cr.x14miiyz.x1a7h2tk.x2lah0s.xdt5ytf.x1lliihq.x9f619.xm0m39n.x1qhh985.xcfux6l.x972fbf.x1qjc9v5:nth-of-type(1)
+
 ! Reddit------------------------------------
 reddit.com##:xpath(//div[contains(@class, 'email-collection-banner')])
 
